@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Hirendra Bista 👋</h1>
 
 <p align="center">
-  Data Science Aspirant | Machine Learning Enthusiast | GIS and Remote Sensing
+  GIS Analyst | GeoAI | GIS | Remote Sensing | Spatial Analytics | GIS Programming | Machine Learning | Data Analytics | Big Data
 </p>
 
 <p align="center">
@@ -15,19 +15,14 @@ I'm a passionate researcher with a strong enthusiasm for GIS, Remote Sensing, Ma
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python
-- **Data Manipulation:** Pandas, NumPy, Excel
+- **GIS and Remote Sensing:** ArcGIS Pro, ArcMap, ArcGIS Online, ArcGIS Enterprise, QGIS, Google Earth Engine, SNAP, Raster Analysis, Image Classification, Suitability Modeling, Network Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Ggplot2
-- **Machine Learning:** Scikit-Learn (Beginner)
-- **Statistical Analysis:** Regression analysis, EDA, PCA, ANOVA, Chi-square test, t-test
+- **Spatial Analysis and Data Management:** Geodatabases, Geoprocessing, Data Editing, QA/QC, Geocoding, Versioned Editing, Data Design, Georeferencing, Parcel Fabric, COGO, Cadastral Mapping, Topology, Utility Network, Digitization
+- **Programming and Automation:** Python (ArcPy), R, ModelBuilder, GIS Scripting, Batch Processing, ETL, Spatial Statistics - **Statistical Analysis:** Regression analysis, EDA, PCA, ANOVA, Chi-square test, t-test
+- **Web GIS and Visualization:** ArcGIS Dashboards, StoryMaps, Experience Builder, QuickCapture, Survey123, Power BI 
 - **Tools:** Google Colab, Jupyter Lab, R Studio, Linux
-- **GIS:** ArcGIS, QGIS, Google Earth Engine, Geopandas, Folium
-
-## 🌱 Currently Learning
-
-- The Data Science Course: A Complete Data Science Bootcamp
-- Geospatial Analysis
-- Mathematics for Machine Learning
+- **GIS:** ArcGIS, QGIS, Google Earth Engine, Geopandas, Folium, Rasterio
+  
 
 ## 📊 GitHub Stats
 
