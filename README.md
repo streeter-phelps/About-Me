@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher with a strong enthusiasm for GIS, Remote Sensing, Machine Learning, and Data Science. My goal is to turn raw data into meaningful insights and actionable decisions.
+GIS Analyst with 3+ years of experience in spatial analysis, enterprise GIS, web mapping, remote sensing, and spatial data management. Experienced in infrastructure asset mapping and management, geodatabases, workflow automation, advanced geoprocessing, and web GIS applications for client-focused creative geospatial solutions.
 
 ## 🛠️ Skills
 
