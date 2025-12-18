@@ -18,11 +18,9 @@ GIS Analyst with 3+ years of experience in spatial analysis, enterprise GIS, web
 - **GIS and Remote Sensing:** ArcGIS Pro, ArcMap, ArcGIS Online, ArcGIS Enterprise, QGIS, Google Earth Engine, SNAP, Raster Analysis, Image Classification, Suitability Modeling, Network Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Ggplot2
 - **Spatial Analysis and Data Management:** Geodatabases, Geoprocessing, Data Editing, QA/QC, Geocoding, Versioned Editing, Data Design, Georeferencing, Parcel Fabric, COGO, Cadastral Mapping, Topology, Utility Network, Digitization
-- **Programming and Automation:** Python (ArcPy), R, ModelBuilder, GIS Scripting, Batch Processing, ETL, Spatial Statistics - **Statistical Analysis:** Regression analysis, EDA, PCA, ANOVA, Chi-square test, t-test
+- **Programming and Automation:** Python (ArcPy, Geopandas, Folium, Rasterio), R, ModelBuilder, GIS Scripting, Batch Processing, ETL, Spatial Statistics - **Statistical Analysis:** Regression analysis, EDA, PCA, ANOVA, Chi-square test, t-test
 - **Web GIS and Visualization:** ArcGIS Dashboards, StoryMaps, Experience Builder, QuickCapture, Survey123, Power BI 
 - **Tools:** Google Colab, Jupyter Lab, R Studio, Linux
-- **GIS:** ArcGIS, QGIS, Google Earth Engine, Geopandas, Folium, Rasterio
-  
 
 ## 📊 GitHub Stats
 
