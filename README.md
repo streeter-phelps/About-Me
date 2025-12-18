@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hirenbista/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hirenbista-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/hirenbista"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@hirenbista-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://medium.com/@hirenbista"><img alt="Medium" src="https://img.shields.io/badge/Medium-hirenbista-brightgreen?style=flat-square"></a>
 </p>
 
 ## 🚀 About Me
